@@ -15,8 +15,8 @@ I am broadly interested in Machine Learning ,Natural Language Processing and Dat
 
 Education
 ======
-<p align="left">Shanghai Jiao Tong University(SJTU)</p><p align="right">Sept. 2015 - June 2019(expected)</p>   
-B.S. in Information Security ,School of Electronic Information and Electrical Engineering       
+Shanghai Jiao Tong University(SJTU)<p align="right">Sept. 2015 - June 2019(expected)</p>
+B.S. in Information Security ,School of Electronic Information and Electrical Engineering        
 Overall GPA: 85.36/100
 
 
