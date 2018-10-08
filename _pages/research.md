@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 
-## The improvement work of Chinese Segmentation Model
-### BCMI-NLP lab in SJTU
+<p>## The improvement work of Chinese Segmentation Model</p>
+<p>#### BCMI-NLP lab in SJTU</p>
 * Built a universal Chinese word segmentation for different open corpus and added some rules to the
 segmentation results to meet different segmentation rules.
 * Reproduced the work that Modeling Named Entity Embedding Distribution into Hypersphere and
 applied it to the NER(named entity recognition).
-* Used NER and semantic analysis to improve the efficiency of the neural word segmentation.
+* Used NER and semantic analysis to improve the efficiency of the neural word segmentation.    
 ----    
 ## Alias method and MH based acceleration algorithm for Biterm Topic Model
 * Implemented Biterm Topic Model (BTM) using java code as baseline.
