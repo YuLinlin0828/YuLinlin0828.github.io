@@ -14,9 +14,9 @@ author_profile: true
 
 - - - -
 
-#Personal Interests
-*Jogging
-*Poems
+# Personal Interests
+* Jogging
+* Poems
 
 
 
