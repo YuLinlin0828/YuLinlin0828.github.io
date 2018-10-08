@@ -18,14 +18,14 @@ applied it to the NER(named entity recognition).
 - - - -    
 
 ## Alias Method and MH Based Acceleration Algorithm for Biterm Topic Model
-#### July 2016 - May 2017
+#### July 2016 - May 2017(Advisor: [Advisor: Dr.Xingwei He](http://bcmi.sjtu.edu.cn/~zhaohai))
 * Implemented Biterm Topic Model (BTM) using java code as baseline.
 * Conducted some experiments of our new alogorithm to vertify its efficiency.
 * Fast BTM successfully reduces sampling complexity of BTM from O(K) to O(1).    
 
 - - - -    
 ## The Optimization of Blockchain Confidential Transaction Algorithm
-#### Shanghai Jiao Tong University PRP project    
+#### Shanghai Jiao Tong University PRP project  (Advisor: [Advisor: Prof.Xuejia Lai](https://scholar.google.com/citations?user=B67-NyQAAAAJ&hl=zh-CN)  
 #### Sept. 2017 - Mar. 2018 
 * Improved the operation efficiency and performance of the algorithm by optimizing the Homomorphic
 Encryption, Range Signature and Range Proof algorithm in the confidential transaction.
@@ -35,7 +35,7 @@ and query, followed by building the application.
 - - - -
 
 ## House Price Forecasting Model in Shanghai
-#### Course project in Data Ming class    
+#### Course project in Data Ming class (Advisor: [Prof. Lei Fan](http://infosec.sjtu.edu.cn/index.php?m=article&f=view&id=155))   
 #### May. 2018 - June 2018
 * Used Scrapy Framework to get more than 70,000 pices of house information including 7 atrtibutes and
 price in Shanghai ,and then used CRF++ tools to do chinese segmentation work.
@@ -46,7 +46,7 @@ the XGBoost model for the best performance.
 - - - -
 
 ## Android Application Development
-#### Course project in Softwear Engineering    
+#### Course project in Softwear Engineering  
 #### Feb. 2018 - June 2018
 * Developed a multi-functional calculator in the Android using Java,which can do math calculation ,unit
 conversion and currency converter.
