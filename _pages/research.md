@@ -61,7 +61,8 @@ terminals.
 real-time online user prompts and data transmission in any form such as text messages,fles,emojis and
 pictures .
 * Designed and developed some pages for students to create and query activities with the help of WeChat
-Official Account platform and MySQL.   
+Official Account platform and MySQL.
+
 - - - -    
 
 For more details,you can feel free to contact me.
