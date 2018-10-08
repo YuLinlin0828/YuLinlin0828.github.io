@@ -25,7 +25,7 @@ applied it to the NER(named entity recognition).
 
 - - - -    
 ## The Optimization of Blockchain Confidential Transaction Algorithm
-#### Shanghai Jiao Tong University PRP project  (Advisor: [Advisor: Prof.Xuejia Lai](https://scholar.google.com/citations?user=B67-NyQAAAAJ&hl=zh-CN)  
+#### Shanghai Jiao Tong University PRP project  (Advisor: [Advisor: Prof.Xuejia Lai](https://scholar.google.com/citations?user=B67-NyQAAAAJ&hl=zh-CN))
 #### Sept. 2017 - Mar. 2018 
 * Improved the operation efficiency and performance of the algorithm by optimizing the Homomorphic
 Encryption, Range Signature and Range Proof algorithm in the confidential transaction.
