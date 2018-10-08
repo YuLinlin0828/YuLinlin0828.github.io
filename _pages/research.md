@@ -14,6 +14,7 @@ segmentation results to meet different segmentation rules.
 * Reproduced the work that Modeling Named Entity Embedding Distribution into Hypersphere and
 applied it to the NER(named entity recognition).
 * Used NER and semantic analysis to improve the efficiency of the neural word segmentation.
+
 - - - -    
 
 ## Alias method and MH based acceleration algorithm for Biterm Topic Model
@@ -29,8 +30,10 @@ applied it to the NER(named entity recognition).
 * Improved the operation efficiency and performance of the algorithm by optimizing the Homomorphic
 Encryption, Range Signature and Range Proof algorithm in the confidential transaction.
 * Set up a network using Hyper Fabric platform to realize some Blockchain services such as transaction
-and query, followed by building the application.    
-- - - -    
+and query, followed by building the application.
+
+- - - -
+
 ## House price forecasting model in Shanghai
 #### Course project in Data Ming class    
 #### May. 2018 - June 2018
@@ -38,16 +41,20 @@ and query, followed by building the application.
 price in Shanghai ,and then used CRF++ tools to do chinese segmentation work.
 * Exploited machine learning algorithms including linear-regression, decision Tree ,Random Forest and
 XGBoost after data preprocessing including data cleaning and decoding.Adjusted the parameters in
-the XGBoost model for the best performance.    
-- - - -   
+the XGBoost model for the best performance.
+
+- - - -
+
 ## Android application development
 #### Course project in Softwear Engineering    
 #### Feb. 2018 - June 2018
 * Developed a multi-functional calculator in the Android using Java,which can do math calculation ,unit
 conversion and currency converter.
 * Designed a restaurant management system containing SQL database via UML Model for window PC
-terminals.    
-- - - -    
+terminals. 
+
+- - - -
+
 ## Other Course Projects
 #### Jan. 2017 - Dec. 2017
 * Developed a multi-user chat program with server and client front using Python and Socket.,which realize
