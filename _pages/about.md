@@ -19,4 +19,9 @@ Shanghai Jiao Tong University(SJTU)<p align="right">Sept. 2015 - June 2019(expec
 B.S. in Information Security ,School of Electronic Information and Electrical Engineering        
 Overall GPA: 85.36/100
 
+Contact
+======
+Tel:(+86)15821861196
+Mail:yulinlin0828@gmail.com
+WeChat:Yulinlin0828
 
