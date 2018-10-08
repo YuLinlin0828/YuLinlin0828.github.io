@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research&Projects"
-permalink: /Research&Projects/
+permalink: /research/
 author_profile: true
 ---
 # The improvement work of Chinese Segmentation Model
