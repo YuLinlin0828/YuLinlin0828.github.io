@@ -4,9 +4,8 @@ title: "Publications&Honors"
 permalink: /publications/
 author_profile: true
 ---
-# Publication
-[FastBTM: Reducing the Sampling Time for Biterm Topic Model    Knowledge-Based Systems(KBS), vol. 132, pp. 11-20, 2017. (IF: 4.529)
-Xingwei He, Hua Xu, Jia Li, Liu He,Linlin Yu ](site.file.FastBTM_Reducing the Sampling Time for Biterm Topic Model.pdf)
+[FastBTM: Reducing the Sampling Time for Biterm Topic Model----Knowledge-Based Systems(KBS), vol. 132, pp. 11-20, 2017. (IF: 4.529)
+Xingwei He, Hua Xu, Jia Li, Liu He,Linlin Yu ](https://www.sciencedirect.com/science/article/pii/S0950705117302782?via%3Dihub)
 
 ----
 
