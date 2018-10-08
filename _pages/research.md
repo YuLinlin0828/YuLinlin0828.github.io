@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## The improvement work of Chinese Segmentation Model
+## The Improvement Work of Chinese Segmentation Model
 #### BCMI-NLP lab in SJTU          
 #### May 2018 - Present
 * Built a universal Chinese word segmentation for different open corpus and added some rules to the
@@ -17,14 +17,14 @@ applied it to the NER(named entity recognition).
 
 - - - -    
 
-## Alias method and MH based acceleration algorithm for Biterm Topic Model
+## Alias Method and MH Based Acceleration Algorithm for Biterm Topic Model
 #### July 2016 - May 2017
 * Implemented Biterm Topic Model (BTM) using java code as baseline.
 * Conducted some experiments of our new alogorithm to vertify its efficiency.
 * Fast BTM successfully reduces sampling complexity of BTM from O(K) to O(1).    
 
 - - - -    
-## The optimization of Blockchain confidential Transaction algorithm
+## The Optimization of Blockchain Confidential Transaction Algorithm
 #### Shanghai Jiao Tong University PRP project    
 #### Sept. 2017 - Mar. 2018 
 * Improved the operation efficiency and performance of the algorithm by optimizing the Homomorphic
@@ -34,7 +34,7 @@ and query, followed by building the application.
 
 - - - -
 
-## House price forecasting model in Shanghai
+## House Price Forecasting Model in Shanghai
 #### Course project in Data Ming class    
 #### May. 2018 - June 2018
 * Used Scrapy Framework to get more than 70,000 pices of house information including 7 atrtibutes and
@@ -45,7 +45,7 @@ the XGBoost model for the best performance.
 
 - - - -
 
-## Android application development
+## Android Application Development
 #### Course project in Softwear Engineering    
 #### Feb. 2018 - June 2018
 * Developed a multi-functional calculator in the Android using Java,which can do math calculation ,unit
@@ -55,7 +55,7 @@ terminals.
 
 - - - -
 
-## Other Course Projects
+## Other Relevent Course Projects
 #### Jan. 2017 - Dec. 2017
 * Developed a multi-user chat program with server and client front using Python and Socket.,which realize
 real-time online user prompts and data transmission in any form such as text messages,fles,emojis and
@@ -63,5 +63,6 @@ pictures .
 * Designed and developed some pages for students to create and query activities with the help of WeChat
 Official Account platform and MySQL.   
 - - - -    
+
 For more details,you can feel free to contact me.
 
