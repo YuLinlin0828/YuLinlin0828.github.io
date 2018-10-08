@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Linlin Yu"
   avatar           : "profile.png"
-  bio              : "[Homepage](https://yulinlin0828.github.io)"
+  bio              : "[Homepage]()"
   location         : "Shanghai,China"
-  CV               : "CV"
+  Hmoepage         : "https://yulinlin0828.github.io"
   employer         :
-  googlescholar    : 
+  CV               : 
   email            :
   uri              :
   bitbucket        :
