@@ -11,6 +11,7 @@ redirect_from:
 Welcome to my homepage!   
 Currently, I am a fourth-year undergraduate student in School of Cyber Security ,the University of Shanghai Jiao Tong.      
 I am broadly interested in Machine Learning ,Natural Language Processing and Data Science , I am applying for the PHD in computer science for further study.
+This is my [CV](https://github.com/YuLinlin0828/YuLinlin0828.github.io/blob/master/files/CV.pdf)
 
 
 Education
