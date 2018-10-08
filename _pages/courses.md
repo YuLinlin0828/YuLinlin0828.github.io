@@ -11,7 +11,7 @@ author_profile: true
 - - - - 
 
 # Selected Courses
-## Computer Science
+### Computer Science
 * Data Mining(89) 
 * Introduction to Artificial Intelligence 
 * Computer Organization and Architecture(93)
@@ -19,7 +19,7 @@ author_profile: true
 * Principles of Database(91) 
 * Operating System 
 * C++ Python Verilog     
-## Math&Security
+### Math&Security
 * Mathematic of Information Security(94)
 * Windows Security Theory And Technique(90)
 * Modern Cryptography
