@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## The Improvement Work of Chinese Segmentation Model
-#### BCMI-NLP lab in SJTU          
+#### BCMI-NLP lab in SJTU(Advisor: [Prof.Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai))       
 #### May 2018 - Present
 * Built a universal Chinese word segmentation for different open corpus and added some rules to the
 segmentation results to meet different segmentation rules.
