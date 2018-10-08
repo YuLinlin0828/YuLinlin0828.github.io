@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage!   
 Currently, I am a fourth-year undergraduate student in School of Cyber Security ,the University of Shanghai Jiao Tong.      
-I am broadly interested in Machine Learning ,Natural Language Processing and Data Science , I am applying for the PHD in computer science for future study.
+I am broadly interested in Machine Learning ,Natural Language Processing and Data Science , I am applying for the PHD in computer science for further study.
 
 
 Education
