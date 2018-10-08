@@ -5,13 +5,11 @@ main:
     url: /research/    
     
   - title: "Publications & Honors"
-    url: /Publications & Honors/
+    url: /publications/
     
   - title: "Courses & Skills"
-    url: /Courses & Skills/
+    url: /courses/
            
   - title: "CV"
     url: /cv/
     
-  - title: "Contact"
-    url: /Contact/
