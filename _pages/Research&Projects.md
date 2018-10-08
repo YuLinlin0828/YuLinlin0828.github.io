@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Research&Projects"
-excerpt: "Research&Projects"
+permalink: /Research&Projects/
 author_profile: true
-redirect_from: 
-  - /Research&Projects/
-  - /Research&Projects.html
 ---
 # The improvement work of Chinese Segmentation Model
 ## BCMI-NLP lab in SJTU
