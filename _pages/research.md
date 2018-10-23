@@ -22,7 +22,7 @@ semantic analysis to improve the accuracy of the neural word segmentation
 - - - -    
 
 ## Alias Method and MH Based Acceleration Algorithm for Biterm Topic Model
-#### July 2016 - May 2017(Advisor: [Advisor: Dr.Xingwei He](http://bcmi.sjtu.edu.cn/~zhaohai))
+#### July 2016 - May 2017(Advisor: [Dr.Xingwei He](http://bcmi.sjtu.edu.cn/~zhaohai))
 * Implemented Biterm Topic Model (BTM) using java code as baseline and proposed FastBTM model
 which is based on Metropolis - Hastings and alias method
 * Carried some experiments of our new algorithm on three different datasets including two short text
