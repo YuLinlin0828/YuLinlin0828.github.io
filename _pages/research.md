@@ -31,7 +31,9 @@ BTM
 * Fast BTM successfully reduces sampling complexity of BTM from O(K) to O(1) (K denotes the number
 of topics) and the FastBTM is effective for reducing the sampling time of both short text and long text
 datasets
+
 - - - -    
+
 ## The Optimization of Blockchain Confidential Transaction Algorithm
 #### Shanghai Jiao Tong University PRP project  (Advisor: [Prof.Xuejia Lai](https://scholar.google.com/citations?user=B67-NyQAAAAJ&hl=zh-CN))
 #### Sept. 2017 - Mar. 2018 
@@ -41,7 +43,8 @@ encryption
 * Improved the operation efficiency and performance of the algorithm by optimizing the Borromean Range
 Signature in storage space and Range Proof algorithm in time by 5% in the confidential transaction    
 * Set up a network using Hyper Fabric platform to realize some Blockchain services such as transaction
-and query   
+and query     
+
 - - - -
 
 ## House Price Forecasting Model in Shanghai
