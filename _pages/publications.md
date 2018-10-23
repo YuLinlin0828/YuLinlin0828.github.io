@@ -10,7 +10,8 @@ Xingwei He, Hua Xu, Jia Li, Liu He,Linlin Yu ](https://www.sciencedirect.com/sci
 ----
 
 # Honors&Awards
-* National Endeavor Fellowship of Shanghai Jiao Tong University for 2016 academic year
+* National Endeavor Fellowship of Shanghai Jiao Tong University for 2016-2017 academic year.
+* Academic Excellence Scholarship of Shanghai Jiao Tong University for 2015-2016 acdemic year.
 * Second prize of National High School Mathematics League in 2014
 * Second prize of Chinese Physics Olympiad in 2014
 
