@@ -9,29 +9,39 @@ author_profile: true
 ## The Improvement Work of Chinese Segmentation Model
 #### BCMI-NLP lab in SJTU(Advisor: [Prof.Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai))       
 #### May 2018 - Present
-* Built a universal Chinese word segmentation for different open corpus and added some rules to the
-segmentation results to meet different segmentation rules.
-* Reproduced the work that Modeling Named Entity Embedding Distribution into Hypersphere and
-applied it to the NER(named entity recognition).
-* Used NER and semantic analysis to improve the efficiency of the neural word segmentation.
+* Reproduced the work that Modeling Named Entity Embedding Distribution into Hyper-sphere and
+applied it to the NER(named entity recognition)    
+* Analyzing different segmentation rules of open corpus and the cause and types of error when training
+and testing in different corpus excluding the error when training and testing in the same domain   
+* I am doing some work about building a universal Chinese word segmentation and adding some rules to
+the segmentation results to meet different segmentation rules. At the same time I will use NER and
+semantic analysis to improve the accuracy of the neural word segmentation    
+
+
 
 - - - -    
 
 ## Alias Method and MH Based Acceleration Algorithm for Biterm Topic Model
 #### July 2016 - May 2017(Advisor: [Advisor: Dr.Xingwei He](http://bcmi.sjtu.edu.cn/~zhaohai))
-* Implemented Biterm Topic Model (BTM) using java code as baseline.
-* Conducted some experiments of our new alogorithm to vertify its efficiency.
-* Fast BTM successfully reduces sampling complexity of BTM from O(K) to O(1).    
-
+* Implemented Biterm Topic Model (BTM) using java code as baseline and proposed FastBTM model
+which is based on Metropolis - Hastings and alias method
+* Carried some experiments of our new algorithm on three different datasets including two short text
+datasets and one long document dataset and we compared the convergence speed of our FastBTM with
+BTM
+* Fast BTM successfully reduces sampling complexity of BTM from O(K) to O(1) (K denotes the number
+of topics) and the FastBTM is effective for reducing the sampling time of both short text and long text
+datasets
 - - - -    
 ## The Optimization of Blockchain Confidential Transaction Algorithm
-#### Shanghai Jiao Tong University PRP project  (Advisor: [Advisor: Prof.Xuejia Lai](https://scholar.google.com/citations?user=B67-NyQAAAAJ&hl=zh-CN))
+#### Shanghai Jiao Tong University PRP project  (Advisor: [Prof.Xuejia Lai](https://scholar.google.com/citations?user=B67-NyQAAAAJ&hl=zh-CN))
 #### Sept. 2017 - Mar. 2018 
-* Improved the operation efficiency and performance of the algorithm by optimizing the Homomorphic
-Encryption, Range Signature and Range Proof algorithm in the confidential transaction.
+* Read some documents and papers about confidential transaction and researched the core technology
+including the Pedersen commitment using the math knowledge of Elliptic curve and homomorphic
+encryption    
+* Improved the operation efficiency and performance of the algorithm by optimizing the Borromean Range
+Signature in storage space and Range Proof algorithm in time by 5% in the confidential transaction    
 * Set up a network using Hyper Fabric platform to realize some Blockchain services such as transaction
-and query, followed by building the application.
-
+and query   
 - - - -
 
 ## House Price Forecasting Model in Shanghai
