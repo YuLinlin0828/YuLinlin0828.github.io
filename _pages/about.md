@@ -19,7 +19,7 @@ Education
 Shanghai Jiao Tong University(SJTU):Sept. 2015 - June 2019     
 B.S. in Information Security ,School of Electronic Information and Electrical Engineering        
 Overall GPA: 85.47/100      
-Major GPA:86.32/100
+Senior GPA:87.46/100
 
 Contact
 ======
