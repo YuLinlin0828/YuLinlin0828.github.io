@@ -47,6 +47,19 @@ and query
 
 - - - -
 
+## Prediction of adolescent bone age by hand X-rays
+#### Course project in Introduction to AI  (Advisor: [Prof.Shilin Wang](https://dblp.org/pers/hd/w/Wang:Shi=Lin))
+#### Oct.25 2018 - Nov.11 2018 
+*[Report]() [Slide]()
+* Used Keras to build a attention-based deep learning network to do the regression work on prediction
+of bone age    
+* Combined the image input and auxiliary age information to improve the model and used VGG-16 to
+pre-train our model   
+* Carried several experiments to explore the influence of convolution kernel, neuron scale from two inputs
+and data balance to both the rate of convergence and accuracy.   
+
+- - - -
+
 ## House Price Forecasting Model in Shanghai
 #### Course project in Data Ming class (Advisor: [Prof. Lei Fan](http://infosec.sjtu.edu.cn/index.php?m=article&f=view&id=155))   
 #### May. 2018 - June 2018
