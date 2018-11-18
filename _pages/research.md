@@ -21,7 +21,7 @@ semantic analysis to improve the accuracy of the neural word segmentation
 
 - - - -    
 
-## Alias Method and MH Based Acceleration Algorithm for Biterm Topic Model [paper](https://www.sciencedirect.com/science/article/pii/S0950705117302782?via%3Dihub)
+## Alias Method and MH Based Acceleration Algorithm for Biterm Topic Model
 #### July 2016 - May 2017(Advisor: [Dr.Xingwei He](https://dblp.org/pers/hd/h/He:Xingwei))
 * Implemented Biterm Topic Model (BTM) using java code as baseline and proposed FastBTM model
 which is based on Metropolis - Hastings and alias method
@@ -30,7 +30,8 @@ datasets and one long document dataset and we compared the convergence speed of 
 BTM
 * Fast BTM successfully reduces sampling complexity of BTM from O(K) to O(1) (K denotes the number
 of topics) and the FastBTM is effective for reducing the sampling time of both short text and long text
-datasets
+datasets   
+* [paper](https://www.sciencedirect.com/science/article/pii/S0950705117302782?via%3Dihub)   
 
 - - - -    
 
@@ -47,7 +48,7 @@ and query
 
 - - - -
 
-## Prediction of adolescent bone age by hand X-rays [Report](https://YuLinlin0828.github.io/Report_BoneAge.pdf)  [Slide](https://YuLinlin0828.github.io/BoneAge.pdf)
+## Prediction of adolescent bone age by hand X-rays
 #### Course project in Introduction to AI  (Advisor: [Prof.Shilin Wang](https://dblp.org/pers/hd/w/Wang:Shi=Lin))
 #### Oct.25 2018 - Nov.11 2018 
 * Used Keras to build a attention-based deep learning network to do the regression work on prediction
@@ -56,17 +57,19 @@ of bone age
 pre-train our model   
 * Carried several experiments to explore the influence of convolution kernel, neuron scale from two inputs
 and data balance to both the rate of convergence and accuracy.   
+* [Report](https://YuLinlin0828.github.io/Report_BoneAge.pdf)  [Slide](https://YuLinlin0828.github.io/BoneAge.pdf)   
 
 - - - -
 
-## House Price Forecasting Model in Shanghai [Report](https://YuLinlin0828.github.io/链家网上海地区二手房价格分析建模报告.pdf) [code](https://YuLinlin0828.github.io/House Price Forcasting Model .html)
+## House Price Forecasting Model in Shanghai 
 #### Course project in Data Ming class (Advisor: [Prof. Lei Fan](http://infosec.sjtu.edu.cn/index.php?m=article&f=view&id=155))   
 #### May. 2018 - June 2018
 * Used Scrapy Framework to get more than 70,000 pices of house information including 7 atrtibutes and
 price in Shanghai ,and then used CRF++ tools to do chinese segmentation work.
 * Exploited machine learning algorithms including linear-regression, decision Tree ,Random Forest and
 XGBoost after data preprocessing including data cleaning and decoding.Adjusted the parameters in
-the XGBoost model for the best performance.
+the XGBoost model for the best performance.   
+* [Report](https://YuLinlin0828.github.io/链家网上海地区二手房价格分析建模报告.pdf) [code](https://YuLinlin0828.github.io/House Price Forcasting Model .html)   
 
 - - - -
 
